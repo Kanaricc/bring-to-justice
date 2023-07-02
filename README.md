@@ -10,4 +10,3 @@
 | conda | tuna                   |
 | pip   | tuna                   |
 | npm   | https://npmmirror.com/ |
-| perl  | tuna                   |
